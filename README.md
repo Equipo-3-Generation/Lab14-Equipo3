@@ -1,2 +1,2 @@
-# Lab14-Equipo3
-Desarrollo de Aplicaciones - En línea AD-14: LAB: Refactorización del blog (135 minutos)
+# ad-l4
+AD-07-1 The blog Site - Group
